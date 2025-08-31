@@ -5,8 +5,6 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)
 [![API](https://img.shields.io/badge/API-Frankfurter%20Exchange%20Rates-orange)](https://www.frankfurter.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-success)](#)
-[![Stars](https://img.shields.io/github/stars/garvit811/currency-converter?style=social)](https://github.com/garvit811/currency-converter)
 
 
 ---
@@ -80,5 +78,12 @@ currency-converter/
 - 🌙 Add dark mode support
 - ⭐ Save favorite currency pairs
 - 📱 Make it PWA-ready for offline usage
+
+---
+
+## 📜 License
+
+    - This project is licensed under the MIT License.
+    - You’re free to use and modify it with attribution.
 
 ---
