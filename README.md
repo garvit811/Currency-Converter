@@ -83,7 +83,7 @@ currency-converter/
 
 ## 📜 License
 
-    - This project is licensed under the MIT License.
-    - You’re free to use and modify it with attribution.
+  This project is licensed under the [MIT License](./LICENSE)
+  You’re free to use and modify it with attribution.
 
 ---
