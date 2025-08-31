@@ -1,5 +1,17 @@
 # 🌍 Currency Converter App
 
+[![React](https://img.shields.io/badge/React-18.0-blue?logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Build-lightblue?logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC?logo=tailwindcss)](https://tailwindcss.com/)
+[![API](https://img.shields.io/badge/API-Frankfurter%20Exchange%20Rates-orange)](https://www.frankfurter.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success)](#)
+[![Stars](https://img.shields.io/github/stars/garvit811/currency-converter?style=social)](https://github.com/garvit811/currency-converter)
+
+
+---
+
+
 A **React-based Currency Converter** that allows you to convert amounts between multiple currencies in real time using the **Frankfurter Exchange Rates API**.  
 Built with **React Hooks + Tailwind CSS**, the project leverages **custom hooks** for cleaner, reusable, and maintainable code.
 
